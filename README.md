@@ -430,6 +430,20 @@ Cyber Security Tools
 * [EaST](https://github.com/C0reL0ader/EaST) - «Exploits And Security Tools» penetration testing framework.
 * [Vanquish](https://github.com/frizb/Vanquish) - Vanquish is a Kali Linux based Enumeration Orchestrator built in Python. Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases.
 * [Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
+* [nudge4j](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM.
+* [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files.
+* [JD-GUI](http://jd.benow.ca/) - A standalone graphical utility that displays Java source codes of “.class” files.
+* [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - A modern open-source Java decompiler.
+* [androguard](https://code.google.com/p/androguard/) - Reverse engineering, malware and goodware analysis of Android applications.
+* [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained).
+* [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains.
+* [ILSpy](https://github.com/icsharpcode/ILSpy/) - an open-source .NET assembly browser and decompiler.
+* [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
+* [antinet](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code.
+* [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables.
+* [radare2](https://github.com/radare/radare2) - A portable reversing framework.
+* [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
+* [ScratchABit](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.
 
 
 
