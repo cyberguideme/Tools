@@ -3,7 +3,11 @@ Cyber Security Tools
 
 ### Kali Tools
 
-* [Kali Tool List](https://tools.kali.org/tools-listing) - Kali Linux Tools Listing
+* [List of SecTools.Org: Top 125 Network Security Tools](https://sectools.org/) - For more than a decade, the Nmap Project has been cataloguing the network security community's favorite tools.
+
+### Kali Tools
+
+* [Kali Tool List](https://tools.kali.org/tools-listing) - Kali Linux Tools Listing.
 
 ### Network Vulnerability Scanners
 
