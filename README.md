@@ -1,6 +1,10 @@
 # Tools
 Cyber Security Tools
 
+### Kali Tools
+
+* [Kali Tool List](https://tools.kali.org/tools-listing) - Kali Linux Tools Listing
+
 ### Network Vulnerability Scanners
 
 * [Netsparker Application Security Scanner](https://www.netsparker.com/) - Application security scanner to automatically find security flaws.
