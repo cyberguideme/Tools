@@ -62,6 +62,30 @@ Cyber Security Tools
 * [IKEForce](https://github.com/SpiderLabs/ikeforce) - Command line IPSEC VPN brute forcing tool for Linux that allows group name/ID enumeration and XAUTH brute forcing capabilities.
 * [hping3](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets.
 * [rshijack](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of `shijack`.
+* [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT).
+* [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability.
+* [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java.
+* [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic.
+* [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit.
+* [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range.
+* [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
+
+#### Forensic
+
+ * [Autopsy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
+ * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
+ * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
+ * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
+ * [PEview](http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
+ * [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size
+ * [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
+ * [BinText](http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers
+
+
+#### Cryptography
+
+ * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
+  
 
 #### Exfiltration Tools
 
