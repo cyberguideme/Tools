@@ -146,6 +146,7 @@ Cyber Security Tools
 * [Ettercap](http://www.ettercap-project.org) - Comprehensive, mature suite for machine-in-the-middle attacks.
 * [BetterCAP](https://www.bettercap.org/) - Modular, portable and easily extensible MITM framework.
 * [MITMf](https://github.com/byt3bl33d3r/MITMf) - Framework for Man-In-The-Middle attacks.
+* [Lambda-Proxy](https://github.com/puresec/lambda-proxy) - Utility for testing SQL Injection vulnerabilities on AWS Lambda serverless functions.
 
 ### Wireless Network Tools
 
