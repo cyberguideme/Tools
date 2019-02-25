@@ -274,6 +274,7 @@ Cyber Security Tools
 * [Lynis](https://cisofy.com/lynis/) - Auditing tool for UNIX-based systems.
 * [unix-privesc-check](https://github.com/pentestmonkey/unix-privesc-check) - Shell script to check for simple privilege escalation vectors on UNIX systems.
 * [Hwacha](https://github.com/n00py/Hwacha) - Post-exploitation tool to quickly execute payloads via SSH on one or more Linux systems simultaneously.
+* [checksec.sh](https://www.trapkit.de/tools/checksec.html) - Shell script designed to test what standard Linux OS and PaX security features are being used.
 
 ### macOS Utilities
 
@@ -377,6 +378,7 @@ Cyber Security Tools
 * [rVMI](https://github.com/fireeye/rVMI) - Debugger on steroids; inspect userspace processes, kernel drivers, and preboot environments in a single tool.
 * [Frida](https://www.frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 * [boxxy](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
+* [pwndbg](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
 
 ### Physical Access Tools
 
