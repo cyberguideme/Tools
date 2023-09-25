@@ -52,6 +52,7 @@ Cyber Security Tools
 * [ACSTIS](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
 * [SQLmate](https://github.com/UltimateHackers/sqlmate) - A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website (optional).
 * [JCS](https://github.com/TheM4hd1/JCS) - Joomla Vulnerability Component Scanner with automatic database updater from exploitdb and packetstorm.
+* [CakeFuzzer](https://zigrin.com/tools/cake-fuzzer/) - The ultimate web application security testing tool for CakePHP-based web applications.
 
 ### Network Tools
 
