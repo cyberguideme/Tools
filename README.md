@@ -396,6 +396,7 @@ Cyber Security Tools
 
 * [Industrial Exploitation Framework (ISF)](https://github.com/dark-lbp/isf) - Metasploit-like exploit framework based on routersploit designed to target Industrial Control Systems (ICS), SCADA devices, PLC firmware, and more. 
 * [s7scan](https://github.com/klsecservices/s7scan) - Scanner for enumerating Siemens S7 PLCs on a TCP/IP or LLC network.
+* [OpalOPC](https://opalopc.com/) - Scanner for OPC UA vulnerabilities and misconfigurations.
 
 ### Side-channel Tools
 
