@@ -36,6 +36,7 @@ Cyber Security Tools
 * [bandit](https://pypi.python.org/pypi/bandit/) - Security oriented static analyser for python code.
 * [Progpilot](https://github.com/designsecurity/progpilot) - Static security analysis tool for PHP code.
 * [RegEx-DoS](https://github.com/jagracey/RegEx-DoS) - Analyzes source code for Regular Expressions susceptible to Denial of Service attacks.
+* [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 
 #### Web Vulnerability Scanners
 
